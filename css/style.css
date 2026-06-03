@@ -122,7 +122,7 @@ body {
 
 .section-1 {
     height: 100vh;
-    background: url("../img/section1/slide1.webp") no-repeat;
+    background: url("../img/section1/slide2.jpeg") no-repeat;
     background-position: top left;
     background-attachment: scroll;
     background-size: cover;
@@ -1457,7 +1457,7 @@ ul, li, ol{
     
     .section-1 {
         height: 100vh;
-        background: url("../img/section1/slide1.webp") no-repeat;
+        background: url("../img/section1/slide2.jpeg") no-repeat;
         background-position: top left;
         background-attachment: scroll;
         background-size: cover;
@@ -1489,7 +1489,7 @@ ul, li, ol{
 
     .section-1 {
         height: 100vh;
-        background: url("../img/section1/slide1.webp") no-repeat;
+        background: url("../img/section1/slide2.jpeg") no-repeat;
         background-position: center;
         background-attachment: scroll;
         background-size: cover;
@@ -1549,7 +1549,7 @@ ul, li, ol{
 @media only screen and (max-width: 576px) {
     .section-1 {
         height: 100vh;
-        background: url("../img/section1/slide1.webp") no-repeat;
+        background: url("../img/section1/slide2.jpeg") no-repeat;
         background-position: center;
         background-attachment: scroll;
         background-size: cover;
